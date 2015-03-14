@@ -1,0 +1,9 @@
+*~
+*.config
+*.files
+*.include
+*.creator*
+*.includes
+*.o
+*.a
+json-scanner-test
